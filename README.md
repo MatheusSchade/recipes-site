@@ -1,4 +1,4 @@
-# Bem vindo ao Receitas Daora!
+# Bem vindo ao Receita Daora!
 
 ## Link do projeto para visualizar o resultado: [ReceitaDaora](https://venomous-dinner.surge.sh/login)
 
